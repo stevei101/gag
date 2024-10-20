@@ -23,7 +23,7 @@ import (
 //
 // NOTE: Make sure to `Hard Restart` the web preview in IDX
 // when updating this variable, using `> Project IDX: Hard Restart`.
-var apiKey = "AIzaSyBeQRThcl-IYM6tbQ92PM2Z6-qsaaz1QPA"
+var apiKey = "To Be Competed!"
 
 func usage() {
 	fmt.Fprintf(flag.CommandLine.Output(), "usage: web [options]\n")
